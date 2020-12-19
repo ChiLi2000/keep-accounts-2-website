@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/keep-accounts-2-website/static/css/main.6d717dc3.chunk.css",
+    "main.js": "/keep-accounts-2-website/static/js/main.e185b28b.chunk.js",
+    "main.js.map": "/keep-accounts-2-website/static/js/main.e185b28b.chunk.js.map",
+    "runtime-main.js": "/keep-accounts-2-website/static/js/runtime-main.160fea48.js",
+    "runtime-main.js.map": "/keep-accounts-2-website/static/js/runtime-main.160fea48.js.map",
+    "static/js/2.896d359e.chunk.js": "/keep-accounts-2-website/static/js/2.896d359e.chunk.js",
+    "static/js/2.896d359e.chunk.js.map": "/keep-accounts-2-website/static/js/2.896d359e.chunk.js.map",
+    "index.html": "/keep-accounts-2-website/index.html",
+    "static/css/main.6d717dc3.chunk.css.map": "/keep-accounts-2-website/static/css/main.6d717dc3.chunk.css.map",
+    "static/js/2.896d359e.chunk.js.LICENSE.txt": "/keep-accounts-2-website/static/js/2.896d359e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.160fea48.js",
+    "static/js/2.896d359e.chunk.js",
+    "static/css/main.6d717dc3.chunk.css",
+    "static/js/main.e185b28b.chunk.js"
+  ]
+}
